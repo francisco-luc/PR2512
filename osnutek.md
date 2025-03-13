@@ -11,3 +11,6 @@ Another possible question to explore is adding the release year of each song (wh
 The dataset provides many general features, which gives us the flexibility to experiment with different variables and define an interesting premise to explore.
 
 On the other hand, we have a dataset with exactly 17.996 rows and 16 columns.
+
+We obtained our dataset from Kaggle, using the training dataset for a machine learning project.
+https://www.kaggle.com/datasets/purumalgi/music-genre-classification
