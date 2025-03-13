@@ -1,5 +1,4 @@
-# PR2512
-Title: How song attributes affects its popularity 
+# How song attributes affects its popularity
 
 We have chosen a dataset that relates various objective and subjective features of different popular songs.
 
