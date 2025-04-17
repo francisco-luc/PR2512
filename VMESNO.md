@@ -20,10 +20,9 @@ Initial Analysis Approach
 1.  **Descriptive Statistics**: We will perform standard data processing on various attributes across the entire dataset and by time periods (calculating means, standard deviations, etc.) to establish our baseline understanding.  
      
 2.  **Attribute Relationship Analysis**: We will explore combinations of attributes to identify if they follow known distributions. For example:  
-     	 \* Has the change in BPM (beats per minute) in songs been progressive over the years?
-
-  		 \* Is BPM distribution random across time periods?  
-  		 \* Do faster songs concentrate in specific years?
+     	 - Has the change in BPM (beats per minute) in songs been progressive over the years?
+  		 - Is BPM distribution random across time periods?  
+  		 - Do faster songs concentrate in specific years?
 
 3.  **Clustering Analysis**: We will investigate whether our dataset can be meaningfully clustered into distinct groups. We'll test both K-means and hierarchical clustering algorithms to determine which produces better results, and experiment with different attribute combinations. For instance, we might visualize popularity differences between songs in A key versus C key.  
      
