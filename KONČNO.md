@@ -78,7 +78,10 @@ The tonalities of the song is pretty uneven, with certain frequent tonalities, s
 
 The major mode (1) is more frequent than the minor (0). Major mode is related with positive sounds and minor mode with more 'sad' sounds. So seems normal that there are more positive or happy songs than sad.
 
-images/distribution.png
+<img width="996" alt="Image" src="https://github.com/user-attachments/assets/42248a93-5eb6-49b5-9e40-bfa0d2f7f833" />
+
+<img width="997" alt="Image" src="https://github.com/user-attachments/assets/87d86616-ff51-4252-aa09-019c70dfa2a3" />
+
 
 
 TEMPORAL ANALYSIS
@@ -95,6 +98,7 @@ Acousticness has decreased a lot because the electronic production has establish
 
 Seems to be a positive correlation between the release year and the popularity, with seems accurate because of the streaming platforms.
 
+<img width="996" alt="Image" src="https://github.com/user-attachments/assets/7d10a21e-4694-4365-a20b-9447a819eb2e" />
 
 
 
@@ -112,7 +116,6 @@ The IQ range analysis showed that approximately the 10% of the songs could be at
 
 
 
-
 CORRELATION ANALYSIS
 
 Energy and Volume show a strong positive correlation (r = 0.7). This means that louder songs are perceived as more energetic.
@@ -125,12 +128,16 @@ Tempo doesn't have strong correlations with any feature that means than changes 
 
 Duration and popularity show a small negative correlation, that means that there is no big relationship or a perfect duration.
 
+<img width="927" alt="Image" src="https://github.com/user-attachments/assets/eb1f1822-981f-441c-9766-1f57757ee8e4" />
 
+<img width="996" alt="Image" src="https://github.com/user-attachments/assets/ba1c5390-5778-44c7-b24a-e0c2e778ce63" />
 
 
 CLUSTERING ANALYSIS
 
 We've identified 4 different clusters based in the audio features. We've used the elbow method for compute this value and later used K-mean for clustering.
+
+<img width="856" alt="Image" src="https://github.com/user-attachments/assets/2302b52e-d924-4ef1-b1f8-6ad6eab08e68" />
 
 Each cluster represents a different style with music with different popularities.
 
@@ -142,12 +149,16 @@ Each cluster represents a different style with music with different popularities
 
 - Cluster 3. Speedy songs (132bpm), high energy (0.79) and high popularity (58.2). Also could be related with rock and electronic.
 
+<img width="839" alt="Image" src="https://github.com/user-attachments/assets/11d682b8-89a3-4643-99be-e86fa45ff593" />
+
 
 The hierarchical analysis approved the K-means approach, showing similar groups in PCA visualization.
 
 The dendogram showed a clearly separation between the groups.
 
+<img width="994" alt="Image" src="https://github.com/user-attachments/assets/010fe7bb-cc8f-476e-bad9-309d3eccb7ba" />
 
+<img width="995" alt="Image" src="https://github.com/user-attachments/assets/4373788f-2af3-48b6-a6aa-a5391cc3e19a" />
 
 
 
