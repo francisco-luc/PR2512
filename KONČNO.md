@@ -84,6 +84,7 @@ The major mode (1) is more frequent than the minor (0). Major mode is related wi
 
 
 
+
 TEMPORAL ANALYSIS
 
 Music has evolved through the years, showing certain changes in audio features. This shows how the music production has changed in such a convulsing century.
@@ -102,6 +103,7 @@ Seems to be a positive correlation between the release year and the popularity, 
 
 
 
+
 OUTLIERS ANALYSIS
 
 We've found meaningful atypical changes in the tempo (bpm) with songs that goes over the 200bpm while most of the songs goes from 90bpm to 130bpm.
@@ -113,6 +115,7 @@ The popularity show not so much atypical values. As we said before, the median i
 Energy and acousticness showed also equilibrated distributions, which means that the production regarding this features seems more standarized.
 
 The IQ range analysis showed that approximately the 10% of the songs could be atypical in one of the features.
+
 
 
 
@@ -133,11 +136,14 @@ Duration and popularity show a small negative correlation, that means that there
 <img width="996" alt="Image" src="https://github.com/user-attachments/assets/ba1c5390-5778-44c7-b24a-e0c2e778ce63" />
 
 
+
+
 CLUSTERING ANALYSIS
 
 We've identified 4 different clusters based in the audio features. We've used the elbow method for compute this value and later used K-mean for clustering.
 
 <img width="856" alt="Image" src="https://github.com/user-attachments/assets/2302b52e-d924-4ef1-b1f8-6ad6eab08e68" />
+
 
 Each cluster represents a different style with music with different popularities.
 
@@ -150,6 +156,7 @@ Each cluster represents a different style with music with different popularities
 - Cluster 3. Speedy songs (132bpm), high energy (0.79) and high popularity (58.2). Also could be related with rock and electronic.
 
 <img width="839" alt="Image" src="https://github.com/user-attachments/assets/11d682b8-89a3-4643-99be-e86fa45ff593" />
+
 
 
 The hierarchical analysis approved the K-means approach, showing similar groups in PCA visualization.
@@ -173,6 +180,7 @@ The model is more reliable for identifying successfull songs than no popular son
 Models show that we can predict in some point the popularty, but not all. There are another factors that also help a song to be popular, like fame or marketing.
 
 The less predictive characteristics were acousticness and liveness. 
+
 
 
 
