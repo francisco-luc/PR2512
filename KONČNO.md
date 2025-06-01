@@ -78,6 +78,7 @@ The tonalities of the song is pretty uneven, with certain frequent tonalities, s
 
 The major mode (1) is more frequent than the minor (0). Major mode is related with positive sounds and minor mode with more 'sad' sounds. So seems normal that there are more positive or happy songs than sad.
 
+images/distribution.png
 
 
 TEMPORAL ANALYSIS
